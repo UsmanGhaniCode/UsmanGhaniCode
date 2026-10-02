@@ -2,7 +2,7 @@
 <h3 align="center">Lead Unity Game Developer · Systems Architect · XR & Multiplayer · AI in Games</h3>
 
 <p align="center">
-  <a href="https://ug0100120.github.io/UsmanGhani.github.io/"><img src="https://img.shields.io/badge/Portfolio-7c6cff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://usmanghani.soargamesstudio.com/"><img src="https://img.shields.io/badge/Portfolio-7c6cff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/usmanghani-profile/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="http://www.playsoargames.com/"><img src="https://img.shields.io/badge/Soar_Games-22d3ee?style=for-the-badge&logo=gamejolt&logoColor=black" alt="Soar Games"></a>
   <a href="mailto:usmanghani.inbox@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -71,13 +71,13 @@
 
 | Project | What it is |
 |---|---|
-| [**InnoVerse**](https://ug0100120.github.io/UsmanGhani.github.io/project.html?id=innoverse) | Multiplayer 3D space with rooms, chat and shared video watching |
-| [**DecenterLand**](https://ug0100120.github.io/UsmanGhani.github.io/project.html?id=decenterland) | Photon multiplayer metaverse with voice and text chat |
-| [**BayraVerse**](https://ug0100120.github.io/UsmanGhani.github.io/project.html?id=bayraverse) | NFT-based multiplayer world: run, walk, fight, drive |
-| [**Dinosaur Hunting**](https://ug0100120.github.io/UsmanGhani.github.io/project.html?id=dinosaur-hunting) | 3D T-Rex hunting and simulation game on Google Play |
+| [**InnoVerse**](https://usmanghani.soargamesstudio.com/project.html?id=innoverse) | Multiplayer 3D space with rooms, chat and shared video watching |
+| [**DecenterLand**](https://usmanghani.soargamesstudio.com/project.html?id=decenterland) | Photon multiplayer metaverse with voice and text chat |
+| [**BayraVerse**](https://usmanghani.soargamesstudio.com/project.html?id=bayraverse) | NFT-based multiplayer world: run, walk, fight, drive |
+| [**Dinosaur Hunting**](https://usmanghani.soargamesstudio.com/project.html?id=dinosaur-hunting) | 3D T-Rex hunting and simulation game on Google Play |
 | [**Soar Games titles**](http://www.playsoargames.com/) | JP Spinner, Dunk Ball, Crashy Race, Knife Shooting, Car Driving Simulator 3D… |
 
-➡️ **See all projects, with screenshots, on my [portfolio](https://ug0100120.github.io/UsmanGhani.github.io/).**
+➡️ **See all projects, with screenshots, on my [portfolio](https://usmanghani.soargamesstudio.com/).**
 
 ### 📂 Open-source projects
 
