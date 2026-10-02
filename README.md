@@ -79,16 +79,12 @@
 
 ➡️ **See all projects, with screenshots, on my [portfolio](https://ug0100120.github.io/UsmanGhani.github.io/).**
 
-### 📂 Repos on this profile
+### 📂 Open-source projects
 
-[AR](https://github.com/UsmanGhaniCode/AR-Augmented-Reality-) ·
-[VR](https://github.com/UsmanGhaniCode/VR-Virtual-Reality-) ·
-[MR](https://github.com/UsmanGhaniCode/MR-Mixed-Reality-) ·
-[Procedural Content Generation](https://github.com/UsmanGhaniCode/PCG-Procedural-Content-Generation-) ·
-[Shader Graphs](https://github.com/UsmanGhaniCode/ShaderGraphs) ·
-[Visual Effects](https://github.com/UsmanGhaniCode/VisualEffect) ·
-[Custom Editor Tools](https://github.com/UsmanGhaniCode/CustomEditor) ·
-[Algorithms](https://github.com/UsmanGhaniCode/Algorithms)
+| Repo | What it is |
+|---|---|
+| [**Checker**](https://github.com/UsmanGhaniCode/Checker) | Checkers board game in Unity with an AI opponent and custom editor tools |
+| [**Algorithms**](https://github.com/UsmanGhaniCode/Algorithms) | Sorting algorithm visualizer in Unity: Bubble, Insertion, Selection, Merge, Quick |
 
 ### 📈 GitHub stats
 
